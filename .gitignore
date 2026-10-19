@@ -1,0 +1,32 @@
+﻿# Build artifacts
+build/
+*.uf2
+*.elf
+*.bin
+*.hex
+*.map
+*.dis
+*.o
+*.obj
+*.vcxproj*
+*.slnx
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+.ninja_deps
+.ninja_log
+build.ninja
+ALL_BUILD.vcxproj*
+ZERO_CHECK.vcxproj*
+*.generated
+.pico-sdk/
+
+# IDE
+.vscode/
+*.swp
+*.bak
+*.bkp*
+
+# OS
+.DS_Store
+Thumbs.db
