@@ -26,6 +26,7 @@ ZERO_CHECK.vcxproj*
 *.swp
 *.bak
 *.bkp*
+*.novo.bak
 
 # OS
 .DS_Store
